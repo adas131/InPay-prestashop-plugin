@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>inpay</name>
+    <displayName><![CDATA[Bitcoin payments using InPay.pl]]></displayName>
+    <version><![CDATA[1.1.12]]></version>
+    <description><![CDATA[Accept Bitcoin payments using InPay gateway]]></description>
+    <author><![CDATA[InPay S.A.]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to delete your merchant data?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
